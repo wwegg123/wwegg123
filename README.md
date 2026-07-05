@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @wwegg123
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning more about kali linux
-- 
+
